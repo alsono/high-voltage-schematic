@@ -6,4 +6,5 @@
 "Q2","1","NPN","","","","https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
 "R1","1","1M","","","","https://www.digikey.com/en/products/detail/yageo/CFR-25JB-52-1M/99?msockid=1e2431194f71648f270924934eac65ac"
 "R2","1","15K","","","","https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF12JT15K0/1741048"
-"T1","1","Transformer_SP_1S","","","",""
+"T1","1","Transformer_SP_1S","","","","x"
+"db","2","development board","","","","x"
