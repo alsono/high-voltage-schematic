@@ -1,2 +1,1 @@
-# high-voltage-schematic
-high voltage gen
+# What this is
