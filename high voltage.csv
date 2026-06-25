@@ -1,5 +1,5 @@
 "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Datasheet"
-"C1","1","0.01 uF","","","",""
+"C1","1","0.01 uF","","","","https://www.digikey.com/en/products/detail/kemet/C320C104K5R5TA/818040"
 "C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23","21","C_Polarized","","","","https://eu.mouser.com/ProductDetail/KEMET/ESH226M400AL4AA?qs=HkWi%252B9Y4Xq9wCxVrofcRHQ%3D%3D"
 "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20","20","1N4004","","","","http://www.vishay.com/docs/88503/1n4001.pdf"
 "Q1","1","PNP","","","","https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
