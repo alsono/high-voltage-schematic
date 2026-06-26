@@ -4,7 +4,7 @@ Voltage multiplier that can convert 12V DC into 6.3KV-8.4KV AC
 ## How it works
 <img width="923" height="516" alt="image" src="https://github.com/user-attachments/assets/3d5b5863-4f00-4960-8da8-00ba18a51494" />
 
-the two transistors convert the dc current from the source into
+- the two transistors convert the dc current from the source into
 ac, the capacitor sets the frequency.
 in the transformer the ac voltage is converted to 27-33 times the original the original (from 12 to 300-400) depending on your transformer.
 afterwards the voltage is stepped up using the capacitor voltage mult circuit that is 100% overkill lmao. and then passed into the final output.
